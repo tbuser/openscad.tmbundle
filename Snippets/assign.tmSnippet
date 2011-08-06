@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assign (${1:x} = ${2:0}) {
+	${}$0
+}
+</string>
+	<key>name</key>
+	<string>assign</string>
+	<key>scope</key>
+	<string>source.scad</string>
+	<key>tabTrigger</key>
+	<string>ass</string>
+	<key>uuid</key>
+	<string>36BE7AB5-4428-4E25-9CEF-B89A7936ADF8</string>
+</dict>
+</plist>

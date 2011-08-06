@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>OpenSCAD Indent</string>
+	<key>scope</key>
+	<string>source.scad</string>
+	<key>settings</key>
+	<dict>
+		<key>decreaseIndentPattern</key>
+		<string>^(.*\*/)?\s*(\}|\))([^{]*\{)?([;,]?\s*|\.[^{]*|\s*\)[;\s]*)$</string>
+		<key>increaseIndentPattern</key>
+		<string>^.*(\{[^}"']*|\([^)"']*)$</string>
+	</dict>
+	<key>uuid</key>
+	<string>1EBF6A8D-E544-474F-9335-A1A5B2A308F4</string>
+</dict>
+</plist>

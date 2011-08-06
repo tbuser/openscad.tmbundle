@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>for (${20:i} = [${1:0}:${2:10}]) {
+	${}$0
+}
+</string>
+	<key>name</key>
+	<string>intersection_for (...) {...}</string>
+	<key>scope</key>
+	<string>source.scad</string>
+	<key>tabTrigger</key>
+	<string>ifor</string>
+	<key>uuid</key>
+	<string>771C3DD9-2774-44D9-A886-626DBBA26DF7</string>
+</dict>
+</plist>

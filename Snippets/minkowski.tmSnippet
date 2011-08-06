@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>minkowski() {
+	${0}
+}</string>
+	<key>name</key>
+	<string>minkowski</string>
+	<key>scope</key>
+	<string>source.scad</string>
+	<key>tabTrigger</key>
+	<string>mink</string>
+	<key>uuid</key>
+	<string>E8BD8DE3-32EB-479D-A2FB-FC5839286276</string>
+</dict>
+</plist>

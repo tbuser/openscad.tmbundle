@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>multimatrix([
+	[${1:1}, ${2:0}, ${3:0}, ${4:10}],
+	[${5:0}, ${6:1}, ${7:0}, ${8:20}],
+	[${9:0}, ${10:0}, ${11:1}, ${12:30}],
+	[${13:0}, ${14:0}, ${15:0},  ${16:1}]
+]) {
+	${0}
+}
+</string>
+	<key>name</key>
+	<string>multimatrix</string>
+	<key>scope</key>
+	<string>source.scad</string>
+	<key>tabTrigger</key>
+	<string>mul</string>
+	<key>uuid</key>
+	<string>04DCC347-008C-4363-8252-B4F3C05B7602</string>
+</dict>
+</plist>

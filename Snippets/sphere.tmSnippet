@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>sphere(r = ${1:10});</string>
+	<key>name</key>
+	<string>sphere</string>
+	<key>scope</key>
+	<string>source.scad</string>
+	<key>tabTrigger</key>
+	<string>sph</string>
+	<key>uuid</key>
+	<string>690CF5C4-DE84-40ED-ACFB-2E19009582AD</string>
+</dict>
+</plist>
