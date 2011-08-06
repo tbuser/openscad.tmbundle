@@ -3,17 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>union() {
-	${0:${TM_SELECTED_TEXT/\n/\n\t/g}}
-}
+	<string>surface(file = "${1:filename.dat}", center = ${2:true}${0:, convexity = 5});
 </string>
-	<key>keyEquivalent</key>
-	<string>^+</string>
 	<key>name</key>
-	<string>union</string>
+	<string>surface</string>
 	<key>scope</key>
 	<string>source.scad</string>
+	<key>tabTrigger</key>
+	<string>surf</string>
 	<key>uuid</key>
-	<string>4D9948CE-AF8F-4F94-8985-21C96E50D290</string>
+	<string>C02A06D3-0EFD-400A-9BD4-7F9C48796479</string>
 </dict>
 </plist>

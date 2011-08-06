@@ -3,17 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>union() {
-	${0:${TM_SELECTED_TEXT/\n/\n\t/g}}
-}
-</string>
-	<key>keyEquivalent</key>
-	<string>^+</string>
+	<string>rotate_extrude(convexity = ${1:10}) {
+	${0}
+}</string>
 	<key>name</key>
-	<string>union</string>
+	<string>rotate_extrude</string>
 	<key>scope</key>
 	<string>source.scad</string>
+	<key>tabTrigger</key>
+	<string>re</string>
 	<key>uuid</key>
-	<string>4D9948CE-AF8F-4F94-8985-21C96E50D290</string>
+	<string>14D4ECED-9A6A-413C-8316-2882A3D051EB</string>
 </dict>
 </plist>

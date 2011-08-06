@@ -211,6 +211,18 @@
 			<key>name</key>
 			<string>constant.numeric.scad</string>
 		</dict>
+		<dict>
+			<key>match</key>
+			<string>\btrue\b</string>
+			<key>name</key>
+			<string>constant.language.boolean.true.scad</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\bfalse\b</string>
+			<key>name</key>
+			<string>constant.language.boolean.false.scad</string>
+		</dict>
 	</array>
 	<key>scopeName</key>
 	<string>source.scad</string>

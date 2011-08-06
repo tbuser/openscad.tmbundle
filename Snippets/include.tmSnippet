@@ -3,17 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>union() {
-	${0:${TM_SELECTED_TEXT/\n/\n\t/g}}
-}
-</string>
-	<key>keyEquivalent</key>
-	<string>^+</string>
+	<string>include &lt;${1:filename.scad}&gt;</string>
 	<key>name</key>
-	<string>union</string>
+	<string>include</string>
 	<key>scope</key>
 	<string>source.scad</string>
+	<key>tabTrigger</key>
+	<string>inc</string>
 	<key>uuid</key>
-	<string>4D9948CE-AF8F-4F94-8985-21C96E50D290</string>
+	<string>6D57761D-F7B3-4B74-BAE3-4E878EF0688F</string>
 </dict>
 </plist>

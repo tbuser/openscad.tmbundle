@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>union() {
+	<string>difference() {
 	${0:${TM_SELECTED_TEXT/\n/\n\t/g}}
 }
 </string>
 	<key>keyEquivalent</key>
-	<string>^+</string>
+	<string>^-</string>
 	<key>name</key>
-	<string>union</string>
+	<string>difference</string>
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>uuid</key>
-	<string>4D9948CE-AF8F-4F94-8985-21C96E50D290</string>
+	<string>A6852E7F-8805-4C06-97D5-B8E5271C7E26</string>
 </dict>
 </plist>
