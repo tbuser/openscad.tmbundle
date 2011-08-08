@@ -17,8 +17,22 @@
 	<key>patterns</key>
 	<array>
 		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>keyword.control.scad</string>
+				</dict>
+			</dict>
 			<key>match</key>
-			<string>\b(if|else|for|intersection_for|assign|render)\b</string>
+			<string>^(module)\s.*$</string>
+			<key>name</key>
+			<string>meta.function.scad</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(if|else|for|intersection_for|assign|render|function|include|use)\b</string>
 			<key>name</key>
 			<string>keyword.control.scad</string>
 		</dict>
@@ -153,12 +167,6 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(module|function)\b</string>
-			<key>name</key>
-			<string>support.class.scad</string>
-		</dict>
-		<dict>
-			<key>match</key>
 			<string>\b(abs|acos|asun|atan|atan2|ceil|cos|exp|floor|ln|log|lookup|max|min|pow|rands|round|sign|sin|sqrt|tan|str|cube|sphere|cylinder|polyhedron|scale|rotate|translate|mirror|multimatrix|color|minkowski|hull|union|difference|intersection|echo)\b</string>
 			<key>name</key>
 			<string>support.function.scad</string>
@@ -222,12 +230,6 @@
 			<string>\bfalse\b</string>
 			<key>name</key>
 			<string>constant.language.boolean.false.scad</string>
-		</dict>
-		<dict>
-			<key>match</key>
-			<string>^(module)\s.*$</string>
-			<key>name</key>
-			<string>meta.function.scad</string>
 		</dict>
 	</array>
 	<key>scopeName</key>

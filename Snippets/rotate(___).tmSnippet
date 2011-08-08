@@ -3,17 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>rotate([${1:10}, ${2:10}, ${3:10}]) {
-	${0}
-}
-</string>
+	<string>rotate([${1:0}, ${2:0}, ${3:0}]) ${0}</string>
 	<key>name</key>
-	<string>rotate(...) {...}</string>
+	<string>rotate(...)</string>
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>
-	<string>rot</string>
+	<string>r</string>
 	<key>uuid</key>
-	<string>D5413E1E-2D42-4E99-9EF2-5C043BF1514F</string>
+	<string>4DE5802D-0ED8-41F3-AD5D-A40689961627</string>
 </dict>
 </plist>
