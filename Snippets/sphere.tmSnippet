@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>sphere(r = ${1:10});</string>
+	<string>sphere(r=${1:10});</string>
 	<key>name</key>
 	<string>sphere</string>
 	<key>scope</key>

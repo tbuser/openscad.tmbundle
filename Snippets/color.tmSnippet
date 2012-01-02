@@ -5,8 +5,7 @@
 	<key>content</key>
 	<string>color([${1:0}/255, ${2:0}/255, ${3:0}/255]) {
 	${0}
-}
-</string>
+}</string>
 	<key>name</key>
 	<string>color</string>
 	<key>scope</key>

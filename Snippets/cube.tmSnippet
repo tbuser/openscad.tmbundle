@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>cube(size = [${1:10}, ${2:10}, ${3:10}], center = ${4:true});
-</string>
+	<string>cube(size=[${1:10}, ${2:10}, ${3:10}], center=${4:true});</string>
 	<key>name</key>
 	<string>cube</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>import_stl("${1:filename.stl}", convexity = ${2:10});</string>
+	<string>import_stl("${1:filename.stl}", convexity=${2:10});</string>
 	<key>name</key>
 	<string>import_stl</string>
 	<key>scope</key>

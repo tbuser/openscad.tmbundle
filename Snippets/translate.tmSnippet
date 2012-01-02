@@ -5,8 +5,7 @@
 	<key>content</key>
 	<string>translate([${1:0}, ${2:0}, ${3:0}]) {
 	${0}
-}
-</string>
+}</string>
 	<key>name</key>
 	<string>translate(...) {...}</string>
 	<key>scope</key>

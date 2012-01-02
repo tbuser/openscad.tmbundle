@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>cylinder(h = ${1:10}, r = ${2:10}, center=${3:true});</string>
+	<string>cylinder(r=${1:10}, h=${2:10}, center=${3:true});</string>
 	<key>name</key>
 	<string>cylinder</string>
 	<key>scope</key>

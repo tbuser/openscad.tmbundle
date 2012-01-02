@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>linear_extrude(height = ${1:10}, center = ${2:true}, convexity = ${3:10}, twist = ${4:0}) {
+	<string>linear_extrude(height=${1:10}, center=${2:true}, convexity=${3:10}, twist=${4:0}) {
 	${0}
 }</string>
 	<key>name</key>

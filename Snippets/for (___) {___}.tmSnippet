@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>for (${20:i} = [${1:0}:${2:10}]) {
+	<string>for (${20:i}=[${1:0}:${2:10}]) {
 	${}$0
 }
 </string>

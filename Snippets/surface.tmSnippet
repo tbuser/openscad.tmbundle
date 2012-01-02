@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>surface(file = "${1:filename.dat}", center = ${2:true}${0:, convexity = 5});
+	<string>surface(file="${1:filename.dat}", center=${2:true}${0:, convexity=5});
 </string>
 	<key>name</key>
 	<string>surface</string>

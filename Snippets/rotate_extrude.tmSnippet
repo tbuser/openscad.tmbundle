@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>rotate_extrude(convexity = ${1:10}) {
+	<string>rotate_extrude(convexity=${1:10}) {
 	${0}
 }</string>
 	<key>name</key>

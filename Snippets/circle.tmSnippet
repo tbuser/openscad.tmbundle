@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>circle(r = ${1:10});</string>
+	<string>circle(r=${1:10});</string>
 	<key>name</key>
 	<string>circle</string>
 	<key>scope</key>

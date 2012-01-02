@@ -5,8 +5,7 @@
 	<key>content</key>
 	<string>module ${1:module_name}(${2:args}) {
 	${0:// body...}
-}
-</string>
+}</string>
 	<key>name</key>
 	<string>Module</string>
 	<key>scope</key>

@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>function ${1:function_name}(${2:args}) = ${0:// body...};
-</string>
+	<string>function ${1:function_name}(${2:args}) = ${0:// body...};</string>
 	<key>name</key>
 	<string>Function</string>
 	<key>scope</key>

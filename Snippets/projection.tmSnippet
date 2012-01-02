@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>projection(cut = ${1:true}) import_stl("${2:filename.stl}");
+	<string>projection(cut=${1:true}) import_stl("${2:filename.stl}");
 </string>
 	<key>name</key>
 	<string>projection</string>
