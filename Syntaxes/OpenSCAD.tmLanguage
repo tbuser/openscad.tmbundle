@@ -167,7 +167,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(abs|acos|asun|atan|atan2|ceil|cos|exp|floor|ln|log|lookup|max|min|pow|rands|round|sign|sin|sqrt|tan|str|cube|sphere|cylinder|polyhedron|scale|rotate|translate|mirror|multimatrix|color|minkowski|hull|union|difference|intersection|echo)\b</string>
+			<string>\b(abs|acos|asun|atan|atan2|ceil|cos|exp|floor|ln|log|lookup|max|min|pow|rands|round|sign|sin|sqrt|tan|str|cube|sphere|cylinder|polyhedron|polygon|scale|rotate|translate|mirror|multimatrix|color|minkowski|hull|union|difference|intersection|echo)\b</string>
 			<key>name</key>
 			<string>support.function.scad</string>
 		</dict>
